@@ -52,5 +52,3 @@ function onImgClick(e) {
     instance.close();
   }
 }
-
-// console.log(galleryItems);
